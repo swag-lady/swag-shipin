@@ -1,2 +1,3 @@
 # swag-shipin
-吼吼吼吼吼吼晃晃大家两道这里啊！！！！！！！！！！！！！！！
+今晚看什么，来这里查看今天的播放清单哦
+### https://github.com/swag-lady/swag-shipin/wiki
